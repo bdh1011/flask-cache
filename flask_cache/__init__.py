@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-    flask.ext.cache
+    flask_cache
     ~~~~~~~~~~~~~~
 
     Adds cache support to your application.
